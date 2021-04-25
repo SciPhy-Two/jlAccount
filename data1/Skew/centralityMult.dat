@@ -1,0 +1,25 @@
+# BEGIN PLOT
+LegendOnly=//home/akhilcm/Project/EIC/SingleFolder/Skew/Rivet.yoda/Skew:cent=GEN/centralityMult
+DrawOnly=//home/akhilcm/Project/EIC/SingleFolder/Skew/Rivet.yoda/Skew:cent=GEN/centralityMult
+Legend=1
+LogY=1
+# END PLOT
+
+# BEGIN HISTO1D //home/akhilcm/Project/EIC/SingleFolder/Skew/Rivet.yoda/Skew:cent=GEN/centralityMult
+LineColor=red
+LineStyle=solid
+Path=//home/akhilcm/Project/EIC/SingleFolder/Skew/Rivet.yoda/Skew:cent=GEN/centralityMult
+Title=Rivet
+# xlow	 xhigh	 val	 errminus	 errplus
+0.000000e+00	1.000000e+00	1.528209e+02	8.177670e-02	8.177670e-02
+1.000000e+00	2.000000e+00	1.063134e+02	2.730684e-02	2.730684e-02
+2.000000e+00	3.000000e+00	8.196001e+01	1.847997e-02	1.847997e-02
+3.000000e+00	4.000000e+00	6.421609e+01	1.452634e-02	1.452634e-02
+4.000000e+00	5.000000e+00	4.980413e+01	1.180238e-02	1.180238e-02
+5.000000e+00	6.000000e+00	3.819840e+01	9.145212e-03	9.145212e-03
+6.000000e+00	7.000000e+00	3.034091e+01	5.700662e-03	5.700662e-03
+7.000000e+00	8.000000e+00	2.452814e+01	5.230741e-03	5.230741e-03
+8.000000e+00	9.000000e+00	1.694838e+01	9.336811e-03	9.336811e-03
+9.000000e+00	1.000000e+01	4.830580e+00	8.761473e-03	8.761473e-03
+# END HISTO1D
+

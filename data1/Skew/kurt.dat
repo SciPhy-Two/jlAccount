@@ -1,0 +1,28 @@
+# BEGIN PLOT
+LegendOnly=//home/akhilcm/Project/EIC/SingleFolder/Skew/Rivet.yoda/Skew:cent=GEN/kurt
+DrawOnly=//home/akhilcm/Project/EIC/SingleFolder/Skew/Rivet.yoda/Skew:cent=GEN/kurt
+Title=Four particle correlator avg over centrality bins
+LogY=1
+XLabel=Centrality
+YLabel=$\delta P_i \delta P_j \delta P_k \delta P_l$ -----> $(GeV/c)^4$
+Legend=1
+# END PLOT
+
+# BEGIN HISTO1D //home/akhilcm/Project/EIC/SingleFolder/Skew/Rivet.yoda/Skew:cent=GEN/kurt
+LineColor=red
+LineStyle=solid
+Path=//home/akhilcm/Project/EIC/SingleFolder/Skew/Rivet.yoda/Skew:cent=GEN/kurt
+Title=Rivet
+# xlow	 xhigh	 val	 errminus	 errplus
+1.000000e+01	1.000000e+01	-4.060500e-05	0.000000e+00	0.000000e+00
+2.000000e+01	2.000000e+01	-8.805270e-05	0.000000e+00	0.000000e+00
+3.000000e+01	3.000000e+01	-7.154677e-05	0.000000e+00	0.000000e+00
+4.000000e+01	4.000000e+01	-8.191935e-05	0.000000e+00	0.000000e+00
+5.000000e+01	5.000000e+01	-4.018366e-05	0.000000e+00	0.000000e+00
+6.000000e+01	6.000000e+01	4.028853e-05	0.000000e+00	0.000000e+00
+7.000000e+01	7.000000e+01	7.765855e-05	0.000000e+00	0.000000e+00
+8.000000e+01	8.000000e+01	1.876695e-05	0.000000e+00	0.000000e+00
+9.000000e+01	9.000000e+01	-3.590681e-07	0.000000e+00	0.000000e+00
+1.000000e+02	1.000000e+02	3.050181e-04	0.000000e+00	0.000000e+00
+# END HISTO1D
+

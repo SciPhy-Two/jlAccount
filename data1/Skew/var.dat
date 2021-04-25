@@ -1,0 +1,28 @@
+# BEGIN PLOT
+LegendOnly=//home/akhilcm/Project/EIC/SingleFolder/Skew/Rivet.yoda/Skew:cent=GEN/var
+DrawOnly=//home/akhilcm/Project/EIC/SingleFolder/Skew/Rivet.yoda/Skew:cent=GEN/var
+Title=Covariance averaged over centrality bins
+LogY=1
+XLabel=Centrality
+YLabel=$\delta P_i \delta P_j$ -----> $(GeV/c)^2$
+Legend=1
+# END PLOT
+
+# BEGIN HISTO1D //home/akhilcm/Project/EIC/SingleFolder/Skew/Rivet.yoda/Skew:cent=GEN/var
+LineColor=red
+LineStyle=solid
+Path=//home/akhilcm/Project/EIC/SingleFolder/Skew/Rivet.yoda/Skew:cent=GEN/var
+Title=Rivet
+# xlow	 xhigh	 val	 errminus	 errplus
+1.000000e+01	1.000000e+01	9.773379e-03	0.000000e+00	0.000000e+00
+2.000000e+01	2.000000e+01	9.743752e-03	0.000000e+00	0.000000e+00
+3.000000e+01	3.000000e+01	9.774699e-03	0.000000e+00	0.000000e+00
+4.000000e+01	4.000000e+01	9.564383e-03	0.000000e+00	0.000000e+00
+5.000000e+01	5.000000e+01	9.022219e-03	0.000000e+00	0.000000e+00
+6.000000e+01	6.000000e+01	8.071233e-03	0.000000e+00	0.000000e+00
+7.000000e+01	7.000000e+01	5.980830e-03	0.000000e+00	0.000000e+00
+8.000000e+01	8.000000e+01	5.215664e-03	0.000000e+00	0.000000e+00
+9.000000e+01	9.000000e+01	5.211452e-03	0.000000e+00	0.000000e+00
+1.000000e+02	1.000000e+02	7.262317e-03	0.000000e+00	0.000000e+00
+# END HISTO1D
+

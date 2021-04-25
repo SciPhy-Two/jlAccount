@@ -1,0 +1,28 @@
+# BEGIN PLOT
+LegendOnly=//home/akhilcm/Project/EIC/SingleFolder/Skew/Rivet.yoda/Skew:cent=GEN/avg
+DrawOnly=//home/akhilcm/Project/EIC/SingleFolder/Skew/Rivet.yoda/Skew:cent=GEN/avg
+Title=pT averaged over centrality bins
+LogY=1
+XLabel=Centrality
+YLabel=Average $\left<<pT>\right> ----->$ $(GeV/c)$
+Legend=1
+# END PLOT
+
+# BEGIN HISTO1D //home/akhilcm/Project/EIC/SingleFolder/Skew/Rivet.yoda/Skew:cent=GEN/avg
+LineColor=red
+LineStyle=solid
+Path=//home/akhilcm/Project/EIC/SingleFolder/Skew/Rivet.yoda/Skew:cent=GEN/avg
+Title=Rivet
+# xlow	 xhigh	 val	 errminus	 errplus
+1.000000e+01	1.000000e+01	5.845870e-01	0.000000e+00	0.000000e+00
+2.000000e+01	2.000000e+01	5.564473e-01	0.000000e+00	0.000000e+00
+3.000000e+01	3.000000e+01	5.371556e-01	0.000000e+00	0.000000e+00
+4.000000e+01	4.000000e+01	5.257805e-01	0.000000e+00	0.000000e+00
+5.000000e+01	5.000000e+01	5.219129e-01	0.000000e+00	0.000000e+00
+6.000000e+01	6.000000e+01	5.209931e-01	0.000000e+00	0.000000e+00
+7.000000e+01	7.000000e+01	5.231997e-01	0.000000e+00	0.000000e+00
+8.000000e+01	8.000000e+01	5.154000e-01	0.000000e+00	0.000000e+00
+9.000000e+01	9.000000e+01	5.058005e-01	0.000000e+00	0.000000e+00
+1.000000e+02	1.000000e+02	5.487282e-01	0.000000e+00	0.000000e+00
+# END HISTO1D
+
